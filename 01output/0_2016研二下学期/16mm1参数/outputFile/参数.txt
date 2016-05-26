@@ -1,0 +1,4 @@
+if(this->consider==0)   
+    obj = 0.7/te+0.4/teobj;
+else
+  obj= 1.0/te+0.3/teobj+1.4*delaybase/orobj;  

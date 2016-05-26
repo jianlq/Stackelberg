@@ -1,0 +1,336 @@
+TE dictator
+0.285714	12.626044
+
+TE dictator Num
+0.266160	11.684034
+
+TE dictator
+0.232143	11.350760
+
+TE dictator Num
+0.219512	9.959408
+
+TE dictator
+0.376812	15.777040
+
+TE dictator Num
+0.315589	15.621768
+
+TE dictator
+0.241935	12.527851
+
+TE dictator Num
+0.219512	10.592147
+
+TE dictator
+0.235294	10.444520
+
+TE dictator Num
+0.225519	8.982758
+
+TE dictator
+0.235294	12.721761
+
+TE dictator Num
+0.207807	12.831853
+
+TE dictator
+0.300813	14.845084
+
+TE dictator Num
+0.283105	12.571340
+
+TE dictator
+0.309524	16.993408
+
+TE dictator Num
+0.258765	11.552977
+
+TE dictator
+0.279279	11.900872
+
+TE dictator Num
+0.249012	11.590463
+
+TE dictator
+0.291971	15.172822
+
+TE dictator Num
+0.267123	13.633112
+
+TE dictator
+0.428571	13.598286
+
+TE dictator Num
+0.348584	15.770466
+
+TE dictator
+0.285714	15.720970
+
+TE dictator Num
+0.270548	16.834649
+
+TE dictator
+0.294574	14.880635
+
+TE dictator Num
+0.282137	14.857848
+
+TE dictator
+0.241667	9.522906
+
+TE dictator Num
+0.203087	8.680935
+
+TE dictator
+0.235294	8.646067
+
+TE dictator Num
+0.192922	7.542370
+
+TE dictator
+0.254237	16.213774
+
+TE dictator Num
+0.224886	14.800569
+
+TE dictator
+0.292517	14.751276
+
+TE dictator Num
+0.275114	15.509086
+
+TE dictator
+0.264957	11.182453
+
+TE dictator Num
+0.244344	10.001281
+
+TE dictator
+0.278571	11.433422
+
+TE dictator Num
+0.261336	13.084580
+
+TE dictator
+0.344538	11.232442
+
+TE dictator Num
+0.328976	13.835056
+
+TE dictator
+0.397959	19.929158
+
+TE dictator Num
+0.389877	22.447035
+
+TE dictator
+0.428571	29.060883
+
+TE dictator Num
+0.411765	30.290109
+
+TE dictator
+0.383178	22.327574
+
+TE dictator Num
+0.373641	22.313136
+
+TE dictator
+0.350000	20.810509
+
+TE dictator Num
+0.326949	19.908187
+
+TE dictator
+0.357724	21.186023
+
+TE dictator Num
+0.311475	17.110653
+
+TE dictator
+0.160000	6.699595
+
+TE dictator Num
+0.125000	5.382151
+
+TE dictator
+0.181818	9.172664
+
+TE dictator Num
+0.151847	7.453320
+
+TE dictator
+0.162500	7.887886
+
+TE dictator Num
+0.140000	7.171760
+
+TE dictator
+0.181818	7.534368
+
+TE dictator Num
+0.164402	8.638870
+
+TE dictator
+0.176471	7.270353
+
+TE dictator Num
+0.166895	7.824119
+
+
+
+
+/////// ·Ç³£ÊýÑÓ³Ù
+
+TE dictator
+0.480315	213.000000
+
+TE dictator Num
+0.433696	164.356980
+
+TE dictator
+0.553846	191.000000
+
+TE dictator Num
+0.480469	185.438711
+
+TE dictator
+0.588710	215.000000
+
+TE dictator Num
+0.465374	194.087393
+
+TE dictator
+0.514493	234.000000
+
+TE dictator Num
+0.497817	279.748607
+
+TE dictator
+0.416667	232.000000
+
+TE dictator Num
+0.372077	208.458487
+
+TE dictator
+0.476923	203.000000
+
+TE dictator Num
+0.453184	250.190427
+
+TE dictator
+0.557895	224.000000
+
+TE dictator Num
+0.536993	196.183218
+
+TE dictator
+0.715596	227.000000
+
+TE dictator Num
+0.613365	226.261967
+
+TE dictator
+0.394958	227.000000
+
+TE dictator Num
+0.364435	224.977468
+
+TE dictator
+0.454545	246.000000
+
+TE dictator Num
+0.370871	203.282040
+
+TE dictator
+0.356322	278.000000
+
+TE dictator Num
+0.276853	183.307413
+
+TE dictator
+0.357798	246.000000
+
+TE dictator Num
+0.352853	236.520551
+
+TE dictator
+0.402299	201.000000
+
+TE dictator Num
+0.374233	220.821511
+
+TE dictator
+0.364583	297.000000
+
+TE dictator Num
+0.315315	201.191980
+
+TE dictator
+0.339450	242.000000
+
+TE dictator Num
+0.286787	242.782621
+
+TE dictator
+0.400000	242.000000
+
+TE dictator Num
+0.364162	200.979162
+
+TE dictator
+0.321101	257.000000
+
+TE dictator Num
+0.300300	198.226609
+
+TE dictator
+0.352273	274.000000
+
+TE dictator Num
+0.331887	225.435423
+
+TE dictator
+0.352273	338.000000
+
+TE dictator Num
+0.346445	225.030535
+
+TE dictator
+0.449438	219.000000
+
+TE dictator Num
+0.421829	249.854209
+
+
+TE dictator
+0.327869	262.000000
+
+TE dictator Num
+0.313559	198.866625
+
+TE dictator
+0.244681	227.000000
+
+TE dictator Num
+0.229167	201.775638
+
+TE dictator
+0.229508	261.000000
+
+TE dictator Num
+0.168561	197.166033
+
+TE dictator
+0.254902	233.000000
+
+TE dictator Num
+0.215481	230.847897
+
+TE dictator
+0.197531	247.000000
+
+TE dictator Num
+0.155327	205.320016
+
