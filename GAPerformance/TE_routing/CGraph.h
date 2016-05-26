@@ -317,6 +317,35 @@ double CGraph::dijkstraOR(int s, int t,double dm){
 }
 
 
+////  计算每个 OD对之间的路径   初始化路径数目等参数
+void CGraph::GAinit(vector<demand> &req){
+	pathnum.clear();//这次req的每个OD对的路径数目
+	reqlistPath.clear();
+ for(unsigned int i=0;i<req.size();i++)
+ {  
+	 KSP(req[i].org,req[i].des,K); //计算得到一个OD对的listPath
+	 reqlistPath.push_back(listPath); //将listPath存到reqlistPath对应位置   vector<vector<CPath*> > 
+	 pathnum.push_back(listPath.size());
+	// cout<<pathnum[i]<<" "<<endl;
+	
+ }
+ //// 输出测试
+ // vector<vector<CPath*>>::iterator it;
+ // for(it = reqlistPath.begin();it != reqlistPath.end();it++){
+	//  for(int k = 0; k < 16; k++){
+	//  vector<CEdge*>::iterator i;
+	//  cout << k << " : ";
+	//  reverse((*it)[k]->listEdge.begin(),(*it)[k]->listEdge.end());
+	//  for( i = (*it)[k]->listEdge.begin(); i!= (*it)[k]->listEdge.end();i++){
+	//	     cout << (*i)->tail << "  " << (*i)->head <<"  ";
+	//  }
+	//  cout<<endl;
+ // }
+ // }
+ // exit(0);
+
+}
+
 double CGraph::LoadScaleFactor(vector<demand> &req){
 	int num = req.size();
 	this->clearOcc(); 

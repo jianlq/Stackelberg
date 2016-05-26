@@ -5,7 +5,7 @@
 // 个体 individual
 class evoluDivbit{
 	private:
-		static const int MUT = 6; //变异位数
+		static const int MUT = 5; //变异位数
 		static const int HER = 15; //学习位数
 		int consider;
 		CGraph *G;
@@ -156,7 +156,7 @@ class evoluPopubit{
 		// n 种群大小  m:req数目 初始化种群
 		evoluPopubit(int n, int m, CGraph *g, CGraph *gor,vector<demand> *d,vector<demand> *dor,double delaybest,int con){
 			popu.clear();
-			pm = 0.25;
+			pm = 0.20;
 			G = g;
 			GOR = gor;
 			dem = d;
