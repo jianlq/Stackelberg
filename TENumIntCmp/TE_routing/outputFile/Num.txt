@@ -1,0 +1,30 @@
+TE dictator
+0.264000	16.670101
+
+TE dictator Num
+0.251621	13.459333
+
+TE dictator
+0.240385	16.438346
+
+TE dictator Num
+0.203008	14.840345
+
+TE dictator
+0.228571	13.503752
+
+TE dictator Num
+0.204363	14.896121
+
+TE dictator
+0.240385	11.727330
+
+TE dictator Num
+0.194301	12.425145
+
+TE dictator
+0.303030	14.952353
+
+TE dictator Num
+0.273671	14.852425
+
