@@ -1,0 +1,186 @@
+Start:
+Year 1: find hero 
+0.915663	11.417412
+Year 3: find hero 
+0.752941	10.151253
+Year 11: find hero 
+0.812500	9.709079
+Year 13: find hero 
+0.540000	9.586397
+Year 14: find hero 
+0.690476	8.512807
+Year 16: find hero 
+0.609524	7.152650
+Year 26: find hero 
+0.705882	5.998012
+Year 40: find hero 
+0.712500	5.982832
+Year 41: find hero 
+0.705882	5.890031
+Year 42: find hero 
+0.831325	5.425327
+Year 43: find hero 
+0.705882	5.419618
+Year 44: find hero 
+0.705882	5.262941
+Year 45: find hero 
+0.705882	5.047536
+Year 46: find hero 
+0.705882	5.011990
+Year 47: find hero 
+0.705882	4.996817
+
+
+Start:
+Year 13: find hero 
+0.466667	11.916082
+Year 16: find hero 
+0.457143	10.669909
+Year 18: find hero 
+0.451923	10.715081
+Year 22: find hero 
+0.444444	11.914455
+Year 23: find hero 
+0.428571	12.611785
+Year 24: find hero 
+0.400000	10.483908
+Year 34: find hero 
+0.397590	10.582725
+Year 35: find hero 
+0.397260	9.120721
+Year 38: find hero 
+0.361446	11.138750
+Year 39: find hero 
+0.349398	9.080944
+Year 42: find hero 
+0.337838	8.017351
+Year 43: find hero 
+0.337838	7.972095
+Year 44: find hero 
+0.337838	7.641063
+Year 45: find hero 
+0.337838	7.368891
+Year 46: find hero 
+0.337838	7.326099
+
+
+Start:
+Year 1: find hero 
+0.910112	12.524918
+Year 4: find hero 
+0.747368	12.375613
+Year 5: find hero 
+1.000000	11.950831
+Year 6: find hero 
+0.795181	9.851726
+Year 12: find hero 
+0.797980	9.799006
+Year 13: find hero 
+0.642857	9.214191
+Year 14: find hero 
+0.802632	9.174688
+Year 16: find hero 
+0.835294	8.430248
+Year 18: find hero 
+0.934211	8.138546
+Year 21: find hero 
+0.833333	7.707422
+Year 22: find hero 
+0.882353	7.240996
+Year 38: find hero 
+0.928571	6.899559
+Year 41: find hero 
+0.928571	6.688527
+Year 42: find hero 
+0.928571	6.511204
+Year 43: find hero 
+0.928571	6.404529
+Year 44: find hero 
+0.928571	6.399233
+Year 45: find hero 
+0.845238	6.398023
+Year 46: find hero 
+0.845238	6.369057
+Year 48: find hero 
+0.913462	6.246415
+Year 49: find hero 
+0.913462	6.063512
+
+
+Start:
+Year 39: find hero 
+0.438095	11.049548
+Year 41: find hero 
+0.420000	11.872977
+Year 42: find hero 
+0.409524	9.465614
+Year 43: find hero 
+0.390476	9.873234
+Year 44: find hero 
+0.352941	12.771322
+Year 45: find hero 
+0.352941	10.905490
+Year 46: find hero 
+0.355263	10.020309
+
+
+Start:
+Year 2: find hero 
+0.964706	12.026188
+Year 4: find hero 
+0.876190	10.983917
+Year 5: find hero 
+0.876543	9.139867
+Year 12: find hero 
+0.927711	8.317233
+Year 20: find hero 
+0.638554	7.421856
+Year 28: find hero 
+0.964706	7.406698
+Year 30: find hero 
+0.780952	7.132667
+Year 33: find hero 
+0.903614	6.683736
+Year 34: find hero 
+0.630631	6.524825
+Year 35: find hero 
+1.000000	6.440000
+Year 40: find hero 
+0.879518	6.222948
+Year 41: find hero 
+0.944444	5.895396
+Year 42: find hero 
+0.696429	5.836428
+Year 43: find hero 
+0.800000	5.763617
+Year 44: find hero 
+0.842593	5.580819
+Year 45: find hero 
+0.787037	5.445287
+Year 46: find hero 
+0.846154	5.332392
+Year 47: find hero 
+0.846154	5.328294
+Year 48: find hero 
+0.972222	5.316590
+Year 49: find hero 
+0.972973	5.271969
+Year 50: find hero 
+0.972973	5.259826
+
+
+Start:
+Year 41: find hero 
+0.384615	10.622179
+Year 42: find hero 
+0.364865	11.003825
+Year 43: find hero 
+0.364865	10.260070
+Year 44: find hero 
+0.364865	10.048241
+Year 45: find hero 
+0.364865	9.990816
+Year 47: find hero 
+0.364865	9.931874
+
+
