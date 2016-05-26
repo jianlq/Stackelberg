@@ -1,0 +1,257 @@
+strat
+TE dictator
+0.234568	19.015994
+
+Overlay dictator
+0.517647	7.032298
+
+
+
+遗传算法2
+0.345455	8.437642
+
+
+
+ Load Scale Factor
+0.941176
+
+TE dictator
+0.224719	10.692105
+
+Overlay dictator
+0.444444	5.704649
+
+
+
+遗传算法2
+0.295238	5.927910
+
+
+
+ Load Scale Factor
+0.858824
+
+TE dictator
+0.250000	15.235992
+
+Overlay dictator
+0.551282	6.995808
+
+
+
+遗传算法2
+0.341880	8.666646
+
+
+
+ Load Scale Factor
+0.788235
+
+strat
+TE dictator
+0.258427	14.125023
+
+Overlay dictator
+0.857143	6.772153
+
+
+
+遗传算法2
+0.341880	7.238845
+
+
+
+ Load Scale Factor
+0.941176
+
+TE dictator
+0.287356	19.501798
+
+Overlay dictator
+0.571429	8.068723
+
+
+
+遗传算法2
+0.482353	7.539957
+
+
+
+ Load Scale Factor
+0.988235
+
+TE dictator
+0.330275	19.339641
+
+Overlay dictator
+0.596330	8.122742
+
+
+
+遗传算法2
+0.471910	7.527982
+
+
+
+ Load Scale Factor
+0.976471
+
+strat
+TE dictator
+0.232323	14.204497
+
+Overlay dictator
+0.551020	5.941262
+
+
+
+遗传算法2
+0.329545	6.929744
+
+
+
+ Load Scale Factor
+0.915789
+
+TE dictator
+0.235955	12.551008
+
+Overlay dictator
+0.426966	5.694549
+
+
+
+遗传算法2
+0.347826	8.158161
+
+
+
+ Load Scale Factor
+0.944444
+
+TE dictator
+0.276423	13.251363
+
+Overlay dictator
+0.571429	6.017631
+
+
+
+遗传算法2
+0.367347	6.901079
+
+
+
+ Load Scale Factor
+0.831579
+
+strat
+TE dictator
+0.130081	7.697694
+
+Overlay dictator
+0.367347	3.140145
+
+
+
+遗传算法2
+0.191667	4.230522
+
+
+
+ Load Scale Factor
+0.600000
+
+TE dictator
+0.115789	5.306243
+
+Overlay dictator
+0.303371	2.966473
+
+
+
+遗传算法2
+0.173469	4.140670
+
+
+
+ Load Scale Factor
+0.389474
+
+TE dictator
+0.134454	7.451754
+
+Overlay dictator
+0.475000	2.950809
+
+
+
+遗传算法2
+0.181818	3.742261
+
+
+
+ Load Scale Factor
+0.431579
+
+strat
+TE dictator
+0.207547	9.991927
+
+Overlay dictator
+0.505495	3.573231
+
+
+遗传算法
+0.230000	7.957483
+
+
+
+遗传算法2
+0.228346	6.020471
+
+
+
+ Load Scale Factor
+0.813187
+
+TE dictator
+0.186992	10.869788
+
+Overlay dictator
+0.466667	4.907555
+
+
+遗传算法
+0.236842	11.150933
+
+
+
+遗传算法2
+0.236842	6.983896
+
+
+
+ Load Scale Factor
+0.757895
+
+TE dictator
+0.160000	9.291197
+
+Overlay dictator
+0.406593	4.315675
+
+
+遗传算法
+0.230769	9.895240
+
+
+
+遗传算法2
+0.230000	7.997591
+
+
+
+ Load Scale Factor
+0.715789
+
