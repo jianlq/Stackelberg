@@ -1,0 +1,47 @@
+Command Line Interface Operation:
+
+git init
+git add 01output
+git commit -m 'output'
+git remote add origin git@github.com:jianlq/Stackelberg.git
+git push -u origin master
+
+出现错误
+要将Stackelberg远程仓库pull到本地
+执行：
+git pull --rebase origin master
+
+
+之后正常添加即可：
+git add 01output
+git commit -m 'output'
+git push -u origin master
+
+
+
+
+
+// 创建新的分支
+git branch name
+// 切换分支
+git checkout name
+
+
+
+
+github上的指导如下：
+………or create a new repository on the command line
+echo "# MyFloodlight" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:jianlq/MyFloodlight.git
+git push -u origin master
+
+
+
+
+………or push an existing repository from the command line
+
+git remote add origin git@github.com:jianlq/MyFloodlight.git
+git push -u origin master
